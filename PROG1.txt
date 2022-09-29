@@ -8,3 +8,16 @@
 8. Camión - https://dle.rae.es/camión
 9. Avión - https://dle.rae.es/avión
 10. Televisión - https://dle.rae.es/televisión
+
+
+Angel de la Fuente Fdez
+repositorio: https://dle.rae.es/repositorio?m=form
+programar: https://dle.rae.es/programar?m=form
+código: https://dle.rae.es/código
+nube: https://dle.rae.es/nube?m=form
+ordenador: https://dle.rae.es/ordenador?m=form
+algoritmo: https://dle.rae.es/algoritmo?m=form
+teclado: https://dle.rae.es/teclado?m=form
+ratón: https://dle.rae.es/ratón?m=form
+pantalla: https://dle.rae.es/pantalla?m=form
+clase: https://dle.rae.es/clase?m=form
